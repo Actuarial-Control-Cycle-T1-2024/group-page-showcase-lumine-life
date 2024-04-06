@@ -22,3 +22,19 @@ When you finish the task, please paste your link to the Excel [sheet](https://un
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+
+
+
+# MAIN README
+
+<div>
+<button onclick="location.href='https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/'">
+  <img src="https://api.iconify.design/twemoji/briefcase.svg?height=24" aria-hidden="true">
+  2024 SOA Case Study
+</button>
+
+<button onclick="location.href='https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumine-life/tree/main/code'">
+  <img src="https://api.iconify.design/icon-park/file-code.svg?height=24" aria-hidden="true">
+  Code
+</button>
+</div>
