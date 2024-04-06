@@ -1,3 +1,25 @@
+################################### STAGE 1 ##################################
+library(readr)
+library(dplyr)
+library(tidyr)
+
+orig <- read_csv("soa-materials/2024-srcsc-superlife-inforce-dataset.csv", skip = 3)
+
+df <- orig |> 
+  # Modify indicator
+  replace_na(list(Death.indicator = 0,
+                  Lapse.Indicator = "0")) |> 
+  # Replace "Y" in indicator to 1
+  mutate(Lapse.Indicator = ifelse(Lapse.Indicator == "Y", 1, Lapse.Indicator)) |> 
+  # Convert factors
+  mutate(across(c(Policy.type, Sex, Smoker.Status, Underwriting.Class, Urban.vs.Rural,
+                  Region, Distribution.Channel, Death.indicator, Lapse.Indicator, Cause.of.Death), 
+                as.factor)) |> 
+  write_csv("data/inforce-data-cleaned.csv")
+
+
+
+################################### STAGE 2 ##################################
 library(dplyr)
 library(ggplot2)
 
