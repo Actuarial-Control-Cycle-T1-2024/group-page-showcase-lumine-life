@@ -27,7 +27,7 @@ Using the model, mortality savings for the past 20 years were generated:
 <i>Table 1: Comparison of Mortality Savings for the past 20 years</i>
 <p>&nbsp;</p>
 As well as the projected increase in profits per Č1,000 death benefits over 5 years.
-<table><tbody><tr><th><strong>Year</strong></th><th><strong>Median</strong></th><th><strong>Mean</strong></th></tr><tr><td>2024</td><td>83.96</td><td>425.18</td></tr><tr><td>2025</td><td>84.82</td><td>436.24</td></tr><tr><td>2026</td><td>85.35</td><td>447.44</td></tr><tr><td>2027</td><td>85.95</td><td>458.53</td></tr><tr><td>2028</td><td>86.76</td><td>468.30</ul></td></tr></tbody></table>
+<table><tbody><tr><th><strong>Year</strong></th><th><strong>Median</strong></th><th><strong>Mean</strong></th></tr><tr><td>2024</td><td>83.96</td><td>425.18</td></tr><tr><td>2025</td><td>84.82</td><td>436.24</td></tr><tr><td>2026</td><td>85.35</td><td>447.44</td></tr><tr><td>2027</td><td>85.95</td><td>458.53</td></tr><tr><td>2028</td><td>86.76</td><td>468.30</td></tr></tbody></table>
 <i>Table 2: Increase in profits per Č1,000 death benefits with the program</i> 
 <p>&nbsp;</p>
 Resulting from the implementation of the health incentive program, there has been an increase in overall premiums for all policyholders. These increases could be adjusted for more competitive pricing at the cost of profit. 
