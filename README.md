@@ -1,45 +1,33 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
-# Actuarial Theory and Practice A @ UNSW
+### Objectives
+The main objective for the proposed health incentive program is to decrease the overall mortality of policyholders by providing assistance with smoking cessation and promoting cancer awareness. We also aim to improve sales through increased competitiveness and marketability that ultimately adds economic value to SuperLife. 
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+### Monitoring Objectives
+#### Short term
+The program should be monitored over a short period of 5 years to briefly analyse the effects of smoking cessation and cancer screenings on the mortality of policyholders, while also focusing mainly on the maintenance of cash flows due to heavier early investment for the smoking cessation program. 
 
----
+#### Long term
+For a longer observational period, a time horizon of 20 years was suggested to allow for an observational period which wholly encompasses the lifetime of the term insurance of 20 years. This allows for a more detailed monitoring of the predicted mortality model’s accuracy throughout the lifetime of the term insurance and the realised effect of the program on mortality rates for policyholders.
 
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
+### Program Design
+Lumine Life recommends implementing a program which targets two main death causes in SuperLife policyholders to reduce claims frequency: Smoking and Cancer.
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+#### Smoking Cessation
+The smoking cessation program will be offered only to smoking policyholders, which aims to assist with smoking cessation through the use of Bupropion and proactive telephone counselling. The cost of this program will be fully covered by SuperLife for the first year and 50% covered for any recurring years afterwards, to encourage participation from smoking policyholders.
 
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
+#### Cancer Awareness
+An online awareness program for cancer has been suggested to inform and provide insight into the different methods to prevent and identify key cancer causes. This was determined to be a viable solution through identifying ignorance and late detection being the root causes of death from cancer. To encourage participation, a $200 voucher towards a cancer screening or CT scan would be provided annually to all policyholders who have successfully completed the cancer awareness course, to assist in facilitating early detection of cancer.
 
-#### Follow the [guide doc](doc1.pdf) to submit your work. 
+### Pricing
+#### Modelling Method
+Annual in-force policyholder data was projected over a 20 year period alongside corresponding projected interest rates and mortality. The empirical mortality was selected as a benchmark for evaluating model performance, with various models tested before the Whittaker-Henderson smoothing model was selected to project mortality. Focusing on the insurance benefit created by the proposed program, profits were evaluated as incremental quantities, meaning initial expenses and frictional costs were excluded from the calculation.
 
-When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
----
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
+#### Results
+Using the model, mortality savings for the past 20 years were generated:
+<table><tbody><tr><th><p>Real Payments</p></th><th><p>Expected (Pre-intervention)</p></th><th><p>Expected (Post-intervention)</p></th><th><p>Expected Mortality Savings</p></th></tr><tr><td><p>31.31 billion Lumarian Crowns</p></th><th><p>30.39 billion Lumarian Crowns</p></th><th><p>26.35 billion Lumarian Crowns</p></th><th><p>4.04 billions Lumarian Crowns</li></ul></td></tr></tbody></table>
 
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
+As well as the projected increase in profits per Č1,000 death benefits over 5 years.
+<table><tbody><tr><th><p><strong>Year</strong></p></th><th><p><strong>Median</strong></p></th><th><p><strong>Mean</strong></p></th></tr><tr><td><p>2024</p></th><th><p>83.96</p></th><th><p>425.18</p></th></tr><tr><td><p>2025</p></th><th><p>84.82</p></th><th><p>436.24</p></th></tr><tr><td><p>2026</p></th><td><p>85.35</p></th><th><p>447.44</p></th></tr><tr><td><p>2027</p></th><td><p>85.95</p></th><td><p>458.53</p></th></tr><tr><td><p>2028</p></th><th><p>86.76</p></th><th><p>468.30</li></ul></td></tr></tbody></table>
 
-
-
-# MAIN README
-
-<div>
-<button onclick="location.href='https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/'">
-  <img src="https://api.iconify.design/twemoji/briefcase.svg?height=24" aria-hidden="true">
-  2024 SOA Case Study
-</button>
-
-<button onclick="location.href='https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumine-life/tree/main/code'">
-  <img src="https://api.iconify.design/icon-park/file-code.svg?height=24" aria-hidden="true">
-  Code
-</button>
-</div>
-
-# REPORT SUMMARY
 
 ### Assumptions
 The health incentive program’s costs are composed of both fixed and variable parts, with the variable part being affected by assumptions. One key assumption is full participation from policyholders, which likely overestimates costs since participation is optional. Additionally, assumptions about smoking cessation’s impact on mortality was based on Gilpin’s (1997) research, suggesting that the effects start after 4 years of commencing the program, which potentially underestimates costs if participation exceeds 4 years. Furthermore, due to data limitations, the effect of cancer screening on mortality is assumed constant over age, simplifying profit modelling but possibly affecting accuracy. This assumption is significant as they influence the program’s cost estimation and overall profit projections.  
@@ -51,7 +39,6 @@ There are a multitude of risks that can potentially impact the proposed health i
 
 To test the limits of these risks, a sensitivity analysis was conducted to portray the effects of key financial impacts on the profit as depicted in Figure 3. The key financial impacts assessed were interest rate, cost of incentive programs and policy lapse rate. Under all cases, there is a steep increase in profits due to the lagged contribution of the incentive programs via mortality savings. This suggests that the company should maintain enough liquid capital in the early states to fund the incentive programs until they see a return on investment.
 
-{: style="text-align:center"}
 ![fig3-sensitivity-analysis-for-profit](fig/fig3-sensitivity-analysis-for-profit.png)
 _Figure 3: Sensitivity Analysis for Profit_
 
