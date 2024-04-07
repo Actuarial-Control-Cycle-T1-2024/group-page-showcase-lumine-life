@@ -25,13 +25,11 @@ Annual in-force policyholder data was projected over a 20 year period alongside 
 Using the model, mortality savings for the past 20 years were generated:
 <table><tbody><tr><th>Real Payments</th><th>Expected (Pre-intervention)</th><th>Expected (Post-intervention)</th><th>Expected Mortality Savings</th></tr><tr><td>31.31 billion Lumarian Crowns</td><td>30.39 billion Lumarian Crowns</td><td>6.35 billion Lumarian Crowns</td><td>4.04 billions Lumarian Crowns</td></tr></tbody></table>
 <i>Table 1: Comparison of Mortality Savings for the past 20 years</i>
-<br>
-
+<p>&nbsp;</p>
 As well as the projected increase in profits per Č1,000 death benefits over 5 years.
 <table><tbody><tr><th><strong>Year</strong></th><th><strong>Median</strong></th><th><strong>Mean</strong></th></tr><tr><td>2024</td><td>83.96</td><td>425.18</td></tr><tr><td>2025</td><td>84.82</td><td>436.24</td></tr><tr><td>2026</td><td>85.35</td><td>447.44</td></tr><tr><td>2027</td><td>85.95</td><td>458.53</td></tr><tr><td>2028</td><td>86.76</td><td>468.30</ul></td></tr></tbody></table>
-<i>Table 2: Increase in profits per Č1,000 death benefits with the program</i>
-<br>
-
+<i>Table 2: Increase in profits per Č1,000 death benefits with the program</i> 
+<p>&nbsp;</p>
 Resulting from the implementation of the health incentive program, there has been an increase in overall premiums for all policyholders. These increases could be adjusted for more competitive pricing at the cost of profit. 
 <table><tbody><tr><th><p><strong>Min</strong></p></th><th><p><strong>Q1</strong></p></th><th><p><strong>Median</strong></p></th><th><p><strong>Mean</strong></p></th><th><p><strong>Q3</strong></p></th><th><p><strong>Max</strong></p></th></tr><tr><td><p>-355.72</p></td><td><p>5.07</p></td><td><p>12.74</p></td><td><p>24.16</p></td><td><p>30.60</p></td><td><p>105.36</ul></td></tr></tbody></table>
 <i>Table 3: Avg. statistics of premium increase per Č1,000 death benefits with program</i>
