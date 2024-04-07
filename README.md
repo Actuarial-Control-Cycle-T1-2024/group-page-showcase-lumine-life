@@ -23,11 +23,16 @@ Annual in-force policyholder data was projected over a 20 year period alongside 
 
 #### Results
 Using the model, mortality savings for the past 20 years were generated:
-<table><tbody><tr><th><p>Real Payments</p></th><th><p>Expected (Pre-intervention)</p></th><th><p>Expected (Post-intervention)</p></th><th><p>Expected Mortality Savings</p></th></tr><tr><td><p>31.31 billion Lumarian Crowns</p></th><th><p>30.39 billion Lumarian Crowns</p></th><th><p>26.35 billion Lumarian Crowns</p></th><th><p>4.04 billions Lumarian Crowns</li></ul></td></tr></tbody></table>
+<table><tbody><tr><th><p>Real Payments</p></th><th><p>Expected (Pre-intervention)</p></th><th><p>Expected (Post-intervention)</p></th><th><p>Expected Mortality Savings</p></th></tr><tr><td><p>31.31 billion Lumarian Crowns</p></th><th><p>30.39 billion Lumarian Crowns</p></th><th><p>26.35 billion Lumarian Crowns</p></th><th><p>4.04 billions Lumarian Crowns</ul></td></tr></tbody></table>
+_Table 1: Comparison of Mortality Savings for the past 20 years_
 
 As well as the projected increase in profits per Č1,000 death benefits over 5 years.
-<table><tbody><tr><th><p><strong>Year</strong></p></th><th><p><strong>Median</strong></p></th><th><p><strong>Mean</strong></p></th></tr><tr><td><p>2024</p></th><th><p>83.96</p></th><th><p>425.18</p></th></tr><tr><td><p>2025</p></th><th><p>84.82</p></th><th><p>436.24</p></th></tr><tr><td><p>2026</p></th><td><p>85.35</p></th><th><p>447.44</p></th></tr><tr><td><p>2027</p></th><td><p>85.95</p></th><td><p>458.53</p></th></tr><tr><td><p>2028</p></th><th><p>86.76</p></th><th><p>468.30</li></ul></td></tr></tbody></table>
+<table><tbody><tr><th><p><strong>Year</strong></p></th><th><p><strong>Median</strong></p></th><th><p><strong>Mean</strong></p></th></tr><tr><td><p>2024</p></th><th><p>83.96</p></th><th><p>425.18</p></th></tr><tr><td><p>2025</p></th><th><p>84.82</p></th><th><p>436.24</p></th></tr><tr><td><p>2026</p></th><td><p>85.35</p></th><th><p>447.44</p></th></tr><tr><td><p>2027</p></th><td><p>85.95</p></th><td><p>458.53</p></th></tr><tr><td><p>2028</p></th><th><p>86.76</p></th><th><p>468.30</ul></td></tr></tbody></table>
+_Table 2: Increase in profits per Č1,000 death benefits with the program_
 
+Resulting from the implementation of the health incentive program, there has been an increase in overall premiums for all policyholders. These increases could be adjusted for more competitive pricing at the cost of profit. 
+<table><tbody><tr><th><p><strong>Min</strong></p></th><th><p><strong>Q1</strong></p></th><th><p><strong>Median</strong></p></th><th><p><strong>Mean</strong></p></th><th><p><strong>Q3</strong></p></th><th><p><strong>Max</strong></p></th></tr><tr><td><p>-355.72</p></th><th><p>5.07</p></th><th><p>12.74</p></th><th><p>24.16</p></th><th><p>30.60</p></th><th><p>105.36</li></ul></td></tr></tbody></table>
+_Table 4: Avg. statistics of premium increase per Č1,000 death benefits with program_
 
 ### Assumptions
 The health incentive program’s costs are composed of both fixed and variable parts, with the variable part being affected by assumptions. One key assumption is full participation from policyholders, which likely overestimates costs since participation is optional. Additionally, assumptions about smoking cessation’s impact on mortality was based on Gilpin’s (1997) research, suggesting that the effects start after 4 years of commencing the program, which potentially underestimates costs if participation exceeds 4 years. Furthermore, due to data limitations, the effect of cancer screening on mortality is assumed constant over age, simplifying profit modelling but possibly affecting accuracy. This assumption is significant as they influence the program’s cost estimation and overall profit projections.  
@@ -40,7 +45,7 @@ There are a multitude of risks that can potentially impact the proposed health i
 To test the limits of these risks, a sensitivity analysis was conducted to portray the effects of key financial impacts on the profit as depicted in Figure 3. The key financial impacts assessed were interest rate, cost of incentive programs and policy lapse rate. Under all cases, there is a steep increase in profits due to the lagged contribution of the incentive programs via mortality savings. This suggests that the company should maintain enough liquid capital in the early states to fund the incentive programs until they see a return on investment.
 
 ![fig3-sensitivity-analysis-for-profit](fig/fig3-sensitivity-analysis-for-profit.png)
-_Figure 3: Sensitivity Analysis for Profit_
+_Figure 1: Sensitivity Analysis for Profit_
 
 The analysis also considered the certainty of projected values. The predicted decrease in mortality over the past 20 years has an average degree of certainty due to reliance on outdated data and research. Nonetheless, the health incentive program is expected to reduce mortality, supported by scientific evidence. The value of policies under the program is likely to be higher than those without, thanks to the program’s design that benefits both the company and policyholders. Even for non-participants, the program adds value by enhancing market competitiveness.company should maintain enough liquid capital in the early states to fund the incentive programs until they see a return on investment.
 
