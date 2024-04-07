@@ -1,3 +1,4 @@
+## Lumine Life Health Incentive Program
 ### Objectives
 The main objective for the proposed health incentive program is to decrease the overall mortality of policyholders by providing assistance with smoking cessation and promoting cancer awareness. We also aim to improve sales through increased competitiveness and marketability that ultimately adds economic value to SuperLife. 
 
