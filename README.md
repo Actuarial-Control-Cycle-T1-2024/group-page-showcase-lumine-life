@@ -31,7 +31,7 @@ As well as the projected increase in profits per Č1,000 death benefits over 5 y
 <i>Table 2: Increase in profits per Č1,000 death benefits with the program</i> 
 <p>&nbsp;</p>
 Resulting from the implementation of the health incentive program, there has been an increase in overall premiums for all policyholders. These increases could be adjusted for more competitive pricing at the cost of profit. 
-<table><tbody><tr><th><p><strong>Min</strong></p></th><th><p><strong>Q1</strong></p></th><th><p><strong>Median</strong></p></th><th><p><strong>Mean</strong></p></th><th><p><strong>Q3</strong></p></th><th><p><strong>Max</strong></p></th></tr><tr><td><p>-355.72</p></td><td><p>5.07</p></td><td><p>12.74</p></td><td><p>24.16</p></td><td><p>30.60</p></td><td><p>105.36</ul></td></tr></tbody></table>
+<table><tbody><tr><th><p><strong>Min</strong></p></th><th><p><strong>Q1</strong></p></th><th><p><strong>Median</strong></p></th><th><p><strong>Mean</strong></p></th><th><p><strong>Q3</strong></p></th><th><p><strong>Max</strong></p></th></tr><tr><td><p>-355.72</p></td><td><p>5.07</p></td><td><p>12.74</p></td><td><p>24.16</p></td><td><p>30.60</p></td><td><p>105.36</td></tr></tbody></table>
 <i>Table 3: Avg. statistics of premium increase per Č1,000 death benefits with program</i>
 
 ### Assumptions
