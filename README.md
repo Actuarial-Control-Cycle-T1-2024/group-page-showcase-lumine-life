@@ -1,4 +1,16 @@
 # Lumine Life Health Incentive Program
+<div>
+<button onclick="location.href='https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/'">
+  <img src="https://api.iconify.design/twemoji/briefcase.svg?height=24" aria-hidden="true">
+  2024 SOA Case Study
+</button>
+
+<button onclick="location.href='https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumine-life/tree/main/code'">
+  <img src="https://api.iconify.design/icon-park/file-code.svg?height=24" aria-hidden="true">
+  Code
+</button>
+</div>
+
 ### Objectives
 The main objective for the proposed health incentive program is to decrease the overall mortality of policyholders by providing assistance with smoking cessation and promoting cancer awareness. We also aim to improve sales through increased competitiveness and marketability that ultimately adds economic value to SuperLife. 
 
