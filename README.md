@@ -7,6 +7,11 @@ Members: Jason Leung, Luya Lin, Sean Sun, Bruce Tang, Raymond Thi
   2024 SOA Case Study
 </button>
 
+<button onclick="location.href='https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumine-life/tree/main/Report.pdf'">
+  <img src="https://api.iconify.design/icon-park/file-code.svg?height=24" aria-hidden="true">
+  Report
+</button>
+
 <button onclick="location.href='https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumine-life/tree/main/code'">
   <img src="https://api.iconify.design/icon-park/file-code.svg?height=24" aria-hidden="true">
   Code
