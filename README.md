@@ -1,4 +1,6 @@
 # Lumine Life Health Incentive Program
+Members: Jason Leung, Luya Lin, Sean Sun, Bruce Tang, Raymond Thi
+
 <div>
 <button onclick="location.href='https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/'">
   <img src="https://api.iconify.design/twemoji/briefcase.svg?height=24" aria-hidden="true">
@@ -10,6 +12,8 @@
   Code
 </button>
 </div>
+
+---
 
 ### Objectives
 The main objective for the proposed health incentive program is to decrease the overall mortality of policyholders by providing assistance with smoking cessation and promoting cancer awareness. We also aim to improve sales through increased competitiveness and marketability that ultimately adds economic value to SuperLife. 
@@ -57,7 +61,7 @@ There are a multitude of risks that can potentially impact the proposed health i
 
 To test the limits of these risks, a sensitivity analysis was conducted to portray the effects of key financial impacts on the profit as depicted in Figure 3. The key financial impacts assessed were interest rate, cost of incentive programs and policy lapse rate. Under all cases, there is a steep increase in profits due to the lagged contribution of the incentive programs via mortality savings. This suggests that the company should maintain enough liquid capital in the early states to fund the incentive programs until they see a return on investment.
 
-![fig3-sensitivity-analysis-for-profit](fig/fig3-sensitivity-analysis-for-profit.png)
+![fig1-sensitivity-analysis-for-profit](fig/fig1-sensitivity-analysis-for-profit.png)
 _Figure 1: Sensitivity Analysis for Profit_
 
 The analysis also considered the certainty of projected values. The predicted decrease in mortality over the past 20 years has an average degree of certainty due to reliance on outdated data and research. Nonetheless, the health incentive program is expected to reduce mortality, supported by scientific evidence. The value of policies under the program is likely to be higher than those without, thanks to the program’s design that benefits both the company and policyholders. Even for non-participants, the program adds value by enhancing market competitiveness.company should maintain enough liquid capital in the early states to fund the incentive programs until they see a return on investment.
